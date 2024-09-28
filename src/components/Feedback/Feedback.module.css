@@ -1,0 +1,18 @@
+.feedback {
+    margin-top: 20px;
+  }
+  
+  .feedback h2 {
+    color: #388e3c;
+  }
+  
+  .feedback ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .feedback li {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
